@@ -1,0 +1,38 @@
+
+.letter-block {
+    width: 90px;
+    height: 90px;
+    border: 2px solid #6E86CF;
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 28px;
+    border-radius: 50px;
+}
+
+.letter {
+    height: 50%;
+}
+
+.number {
+    height: 50%;
+}
+
+.selection {
+    background: #CB62BD;
+    color: white;
+}
+
+.checked {
+    background: #CB62BD;
+    color: white;
+}
+
+.title {
+    margin-top: 0;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 40px;
+    color: white;
+    background-color: #388AA8;
+}
